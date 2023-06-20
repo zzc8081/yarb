@@ -72,12 +72,12 @@
             "key": "xxxxxxxxxx"
         },
         "mail": {
-            "enabled": false,
+            "enabled": true,
             "secrets": "MAIL_KEY",
             "secrets_receiver": "MAIL_RECEIVER",
-            "address": "firmianay@163.com",
+            "address": "zic77777@163.com",
             "server": "smtp.163.com",
-            "from": "security-bot <firmianay@163.com>",
+            "from": "security-bot <zic77777@163.com>",
             "receiver": "a@163.com,b@163.com",
             "key": "xxxxxxxxxx"
         }
